@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'orangekid';
+    src:  url('./orangekid.ttf') format('truetype');
+}
+
+html, body {
+    background-color: transparent;
+    margin: 0;
+    padding: 5px;
+    font-family: 'orangekid';
+    color: #fcfefe;
+    font-size: 42px;
+    text-shadow:  0 0 5px #18191f, 0 0 5px #18191f, 2px 2px #18191f;
+}
